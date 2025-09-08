@@ -1,8 +1,8 @@
 # Hi there 👋 I'm SUBHRA DEY
 **Python Developer | Open Source Enthusiast | Data & Automation**
 
-[![GitHub followers](https://img.shields.io/github/followers/subhradey?label=Follow&style=social)](https://github.com/subhradey)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhradey&layout=compact)](https://github.com/subhradey)
+[![GitHub followers](https://img.shields.io/github/followers/subhra-dey?label=Follow&style=social)](https://github.com/subhra-dey)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhra-dey&layout=compact)](https://github.com/subhra-dey)
 
 ## About Me
 - 🔭 I build automation tools, data pipelines and backend services in **Python**.
