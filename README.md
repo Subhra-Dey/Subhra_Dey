@@ -1,8 +1,8 @@
 # Hi there 👋 I'm SUBHRA DEY
 **Python Developer | Open Source Enthusiast | Data & Automation**
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/Subhra_Dey?label=Follow&style=social)](https://github.com/Subhra_Dey)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhra_Dey&layout=compact)](https://github.com/Subhra_Dey)
 
 ## About Me
 - 🔭 I build automation tools, data pipelines and backend services in **Python**.
@@ -11,8 +11,8 @@
 - 💬 Ask me about Python, APIs, web-scraping, testing, or deployment.
 
 ## 🛠️ Tech & Tools
-- **Languages:** Python, SQL, Bash
-- **Frameworks / Libs:** FastAPI, Flask, Pandas, NumPy, Requests, pytest
+- **Languages:** Python, SQL
+- **Frameworks / Libs:** FastAPI, Flask, Pandas, NumPy, Requests, pytest, Tensorflow
 - **Dev / Infra:** Git, Docker, GitHub Actions, PostgreSQL
 - **Concepts:** REST APIs, Web Scraping, Data Engineering, Unit Testing
 
