@@ -32,9 +32,9 @@
 ## 📈 GitHub Stats
 <!-- Put these cards in your README; replace YOUR_USERNAME -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subhra-dey&show_icons=true&theme=radical" alt="GitHub stats" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhra-dey&theme=radical" alt="Streak" />
 </p>
 
 <div align="center"> 
