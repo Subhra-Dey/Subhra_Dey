@@ -37,9 +37,22 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="Streak" />
 </p>
 
-## 📫 Contact
-- Email: `your.email@example.com`  
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+<div align="center"> 
+<h2 align="left">CONNECT WITH ME :</h2>
+  <a href="https://www.linkedin.com/in/subhra-dey-3a12ab342/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:subhra2732003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://x.com/SubhraDey2024"  target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-59B2F4?style=for-the-badge&logo=x&logoColor=ffffff" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/subhra591/"  target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-dc2743?style=for-the-badge&logo=instagram&logoColor=ffffff ">
+  </a>
+  <a href="https://www.facebook.com/subhra.dey.98284" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-0000ff?style=for-the-badge&logo=facebook&logoColor=ffffff" >
+  </a>
+</div>
 
-> ✨ Tip: keep this file up-to-date, add screenshots or demo gifs of your projects, and keep the “Selected Projects” short & actionable.
